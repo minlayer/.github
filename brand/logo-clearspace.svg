@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16" width="288" height="256" role="img" aria-labelledby="t d" fill="none">
+  <title id="t">Offset mark with clearspace</title>
+  <desc id="d">A square cut horizontally five units from the top, with the upper mass displaced two units to the right. Padded by 2 grid units on every side.</desc>
+  <polygon points="4,2 16,2 16,7 14,7 14,14 2,14 2,7 4,7" fill="currentColor"/>
+</svg>

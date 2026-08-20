@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 12" width="224" height="192" role="img" aria-labelledby="t d" fill="none">
+  <title id="t">Offset mark, ghost variant</title>
+  <desc id="d">A square cut horizontally five units from the top, with the upper mass displaced two units to the right. A hairline outline shows the upper mass in its original position.</desc>
+  <rect x="0" y="0" width="12" height="5" fill="none" stroke="#C4C4C4" stroke-width="0.08"/>
+  <polygon points="2,0 14,0 14,5 12,5 12,12 0,12 0,5 2,5" fill="currentColor"/>
+</svg>

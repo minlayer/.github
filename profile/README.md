@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minlayer/.github/main/brand/logo-white.svg">
+  <img src="https://raw.githubusercontent.com/minlayer/.github/main/brand/logo-black.svg" alt="" width="112">
+</picture>
+
 # minlayer
 
 We believe the following about doing good structured work with an agent:
